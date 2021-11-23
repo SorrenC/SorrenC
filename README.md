@@ -3,6 +3,8 @@ My name is Sorren Chandra. I’m currently majoring in Aerospace Engineering at 
 
 ### Education 📚
 Aerospace Engineering B.S.E - Arizona State University
+
+<em>Anticipated Completion: May 2023</em>
 <!--
 **SorrenC/SorrenC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
