@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Sorren Chandra. I’m currently majoring in Aerospace Engineering at Arizona State University. Feel free to connect with me via LinkedIn
 
-### Education 
+### Education 📚
 Aerospace Engineering B.S.E - Arizona State University
 <!--
 **SorrenC/SorrenC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
