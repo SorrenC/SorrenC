@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sorren Chandra. I’m currently majoring in Aerospace Engineering at Arizona State University. Feel free to connect with me via LinkedIn
+My name is Sorren Chandra. I’m currently majoring in Aerospace Engineering at Arizona State University. Feel free to connect with me via LinkedIn. Most of the work here focuses on scientific computing in areas of my study. 
 
 ### Education 📚
 Aerospace Engineering B.S.E - Arizona State University
