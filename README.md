@@ -4,6 +4,8 @@ My name is Sorren Chandra. I’m an aerospace Engineering major from Arizona Sta
 ### Education 📚
 Aerospace Engineering B.S.E - Arizona State University
 
+### Work :briefcase:
+Honewell Aerospace - Military Avionics
 <em></em>
 <!--
 **SorrenC/SorrenC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
